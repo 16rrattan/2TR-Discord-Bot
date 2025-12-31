@@ -1,3 +1,9 @@
+
+#Discord sensitive files
+members.json
+official_server_config.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -158,6 +164,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+.json
 
 # Pyre type checker
 .pyre/
